@@ -17,7 +17,7 @@ I'm a musician. And I've been playing the flute for twenty years now. Now I've d
 * HTML5
 * CSS3
 ***
-Code example:
+## Code example:
 
 ```
 function multiply(a, b){
