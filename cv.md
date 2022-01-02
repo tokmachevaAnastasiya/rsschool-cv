@@ -1,31 +1,35 @@
 rsschool-cv
 ***
-#Anastasiya Tokmacheva#
+# Anastasiya Tokmacheva #
 ***
 
-##Musician
+## Musician
 ***
 
-##Contact information:
+## Contact information:
 * **Phone:** +7 937 2427607
 * **E-mail:** tokmachevaAnastasiya@gmail.com
 ***
-##Briefly About Myself:
+## Briefly About Myself:
 I'm a musician. And I've been playing the flute for twenty years now. Now I've decided to discover new horizons and explore front-end development.
 ***
-##Skills and Proficiency:
+## Skills and Proficiency:
 * HTML5
 * CSS3
 ***
 Code example:
 
-```function multiply(a, b){
+```
+function multiply(a, b){
  return a * b;
-}```
+}
+```
 
 ***
-##Education:
+
+## Education:
 **Conservatoire**
+
 ***
-##English Language:
+## English Language:
 **A1**
